@@ -93,6 +93,10 @@ TryHackME_x_MWR/
 └── README.md
 ```
 
+##Certificate recieved
+
+<img width="1308" height="743" alt="mwr" src="https://github.com/user-attachments/assets/1e7212b2-21ff-4f7e-b598-4b5cc622461d" />
+
 ---
 
 ## 🚀 Why This Project Matters
